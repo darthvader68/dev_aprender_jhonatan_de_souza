@@ -1,0 +1,9 @@
+cadeia de conexao:
+
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
+***************
+
+para abrir nova tabela:
+
+database/adventure (bd)/new query
